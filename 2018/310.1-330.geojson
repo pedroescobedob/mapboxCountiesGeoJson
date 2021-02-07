@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "47045", "Unnamed: 0": "Dyer County", "County": "TN", "Population": 16473.0, "Heart Disease Value": 324.5, "Year": 2018, "FIPS": "47045.0", "County Code": 47045, "bins": 324, "Crude Rate Lower 95% Confidence Interval": 324.5, "Crude Rate Upper 95% Confidence Interval": 324.5, "Age Adjusted Rate": 324.5, "Age Adjusted Rate Lower 95% Confidence Interval": 324.5, "Age Adjusted Rate Upper 95% Confidence Interval": 324.5, "Match_range": "310.1-330" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -89.265272, 36.206106 ], [ -89.155733, 36.206106 ], [ -89.188594, 35.997983 ], [ -89.341949, 35.882967 ], [ -89.489826, 35.94869 ], [ -89.643181, 35.904875 ], [ -89.730812, 35.997983 ], [ -89.62675, 36.184199 ], [ -89.484349, 36.211583 ], [ -89.265272, 36.206106 ] ] ] } }
+]
+}

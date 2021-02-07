@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "06085", "Unnamed: 0": "Santa Clara County", "County": "CA", "Population": 7027.0, "Heart Disease Value": 99.7, "Year": 2018, "FIPS": "6085.0", "County Code": 6085, "bins": 99, "Crude Rate Lower 95% Confidence Interval": 99.7, "Crude Rate Upper 95% Confidence Interval": 99.7, "Age Adjusted Rate": 99.7, "Age Adjusted Rate Lower 95% Confidence Interval": 99.7, "Age Adjusted Rate Upper 95% Confidence Interval": 99.7, "Match_range": "94.1-100" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.853067, 37.482234 ], [ -121.475158, 37.482234 ], [ -121.228696, 37.137186 ], [ -121.217742, 36.961924 ], [ -121.447773, 36.989309 ], [ -121.57922, 36.901678 ], [ -122.154299, 37.285064 ], [ -122.083098, 37.476757 ], [ -121.853067, 37.482234 ] ] ] } }
+]
+}

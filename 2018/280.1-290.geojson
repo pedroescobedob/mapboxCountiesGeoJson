@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "13107", "Unnamed: 0": "Emanuel County", "County": "GA", "Population": 7471.0, "Heart Disease Value": 289.6, "Year": 2018, "FIPS": "13107.0", "County Code": 13107, "bins": 289, "Crude Rate Lower 95% Confidence Interval": 289.6, "Crude Rate Upper 95% Confidence Interval": 289.6, "Age Adjusted Rate": 289.6, "Age Adjusted Rate Lower 95% Confidence Interval": 289.6, "Age Adjusted Rate Upper 95% Confidence Interval": 289.6, "Match_range": "280.1-290" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -82.315034, 32.837788 ], [ -82.145249, 32.810403 ], [ -82.002849, 32.607757 ], [ -82.030233, 32.536556 ], [ -82.23288, 32.317479 ], [ -82.408142, 32.355817 ], [ -82.550543, 32.498218 ], [ -82.649128, 32.514649 ], [ -82.435527, 32.761111 ], [ -82.315034, 32.837788 ] ] ] } }
+]
+}
