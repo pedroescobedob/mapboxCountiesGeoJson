@@ -1,0 +1,1 @@
+These are the COVID-19 geoJson files
