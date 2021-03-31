@@ -1,9 +1,11 @@
-# INTERACTIVE CHOROPLETH MAP WITH DASH
+# Interactive Choropleth Map With Dash
 
 This tutorial was based on a project made for Lambda School.
 
 You can find the project at [findur.city](http://www.findur.city/).
 Choropleth Map: [ChoroplethMap](https://dash-heartandcovid.herokuapp.com/).
+
+
 
 ## Contributors
 
@@ -16,21 +18,13 @@ Choropleth Map: [ChoroplethMap](https://dash-heartandcovid.herokuapp.com/).
 ### Tech Stack
 
 Python
-
 Heroku
-
 Flask
-
 Docker
-
 Plotly Dash
-
 SQLite
-
 Google Cloud Platform - BigQuery
-
 AWS SageMaker
-
 Import.io
 
 
